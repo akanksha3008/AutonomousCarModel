@@ -1,0 +1,7 @@
+import numpy
+pip install matplotlib
+pip install keras
+tensorflow
+sklearn
+imgaug
+pandas
